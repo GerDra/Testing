@@ -1,0 +1,14 @@
+D:\МГТУ\C#\LabApp1\bin\Debug\net8.0\LabApp1.exe
+D:\МГТУ\C#\LabApp1\bin\Debug\net8.0\LabApp1.deps.json
+D:\МГТУ\C#\LabApp1\bin\Debug\net8.0\LabApp1.runtimeconfig.json
+D:\МГТУ\C#\LabApp1\bin\Debug\net8.0\LabApp1.dll
+D:\МГТУ\C#\LabApp1\bin\Debug\net8.0\LabApp1.pdb
+D:\МГТУ\C#\LabApp1\obj\Debug\net8.0\LabApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\МГТУ\C#\LabApp1\obj\Debug\net8.0\LabApp1.AssemblyInfoInputs.cache
+D:\МГТУ\C#\LabApp1\obj\Debug\net8.0\LabApp1.AssemblyInfo.cs
+D:\МГТУ\C#\LabApp1\obj\Debug\net8.0\LabApp1.csproj.CoreCompileInputs.cache
+D:\МГТУ\C#\LabApp1\obj\Debug\net8.0\LabApp1.dll
+D:\МГТУ\C#\LabApp1\obj\Debug\net8.0\refint\LabApp1.dll
+D:\МГТУ\C#\LabApp1\obj\Debug\net8.0\LabApp1.pdb
+D:\МГТУ\C#\LabApp1\obj\Debug\net8.0\LabApp1.genruntimeconfig.cache
+D:\МГТУ\C#\LabApp1\obj\Debug\net8.0\ref\LabApp1.dll
